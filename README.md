@@ -6,3 +6,5 @@ In future versions of Fleetman we will introduce a full API Gateway.
 ---
 ![](set-name-1.png)
 ![](set-name-2.png)
+![](imagePullPolicy-tag-1.png)
+![](imagePullPolicy-nerver.png)
